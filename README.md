@@ -11,8 +11,9 @@ $ npm install
 $ npm start
 ```
 
+then open `index.html`
+
 ## screen shoots
 
 ![Capture](https://user-images.githubusercontent.com/43186742/85552825-aebdb400-b623-11ea-936b-47c3750b6df9.PNG)
 
-then open 'index.html'
