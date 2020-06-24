@@ -1,5 +1,6 @@
 function submitForm(event) {
   event.preventDefault();
+  alert("request sent");
   let fname = document.getElementById("fname").value;
   let lname = document.getElementById("lname").value;
   let age = document.getElementById("age").value;
