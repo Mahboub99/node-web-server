@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: #a85638;
+  font-family: "Aclonica";
+  color: white;
+}
+.myForm {
+  width: 500px;
+  background-color: #d8c5ae;
+  border-radius: 28px;
+  color: #461b0d;
+  margin: auto;
+  margin-top: 150px;
+  padding-bottom: 30px;
+}
+.myInput {
+  width: 70%;
+  margin: 10px;
+  height: 25px;
+  font-size: 25px;
+  font-weight: 700;
+  border: none;
+  background-color: #d8c5ae;
+  border-bottom: 2px solid #a85638;
+  outline: none;
+  color: #461b0d;
+  font-family: "Aclonica";
+}
+.myTitle {
+  padding-top: 20px;
+}
+.submit {
+  outline: none;
+  border-radius: 28px;
+  width: 100px;
+  padding: 5px;
+  border: none;
+  color: wheat;
+  background-color: #461b0d;
+  margin-top: 20px;
+  margin-left: 40px;
+}

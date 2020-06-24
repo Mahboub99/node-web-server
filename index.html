@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Aclonica"
+      rel="stylesheet"
+    />
+    <title>Simple Node Server</title>
+    <script type="text/javascript" src="index.js"></script>
+  </head>
+  <body>
+    <form class="myForm" onsubmit="submitForm(event)">
+      <h1 class="myTitle">I am a dummy server</h1>
+      <label for="fname">first name</label>
+      <input type="text" id="fname" class="myInput" />
+      <label for="lname">last name</label>
+      <input type="text" id="lname" class="myInput" />
+      <label>your age </label>
+      <input type="number" id="age" class="myInput" min="10" max="120" />
+      <input type="submit" value="submit" class="submit" />
+    </form>
+  </body>
+</html>
