@@ -1,0 +1,23 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahboub99/node-web-server.git"
+  },
+  "author": "ahmed mahboub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahboub99/node-web-server/issues"
+  },
+  "homepage": "https://github.com/Mahboub99/node-web-server#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
